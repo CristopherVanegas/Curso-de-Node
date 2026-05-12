@@ -1,0 +1,37 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "curso de node",
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs",
+    "javascript",
+    "CJS",
+    "MJS"
+  ],
+  "homepage": "https://github.com/CristopherVanegas/Curso-de-Node#readme",
+  "bugs": {
+    "url": "https://github.com/CristopherVanegas/Curso-de-Node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristopherVanegas/Curso-de-Node.git"
+  },
+  "license": "ISC",
+  "author": "Cristopher Vanegas",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
